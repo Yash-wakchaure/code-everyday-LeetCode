@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -47,9 +48,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
