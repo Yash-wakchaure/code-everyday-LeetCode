@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
