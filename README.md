@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
