@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
