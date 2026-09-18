@@ -7,7 +7,7 @@ class Solution {
        }
 
        // Take maximum of each column, from right to left
-       for(int j = nums[0].length-1; j>=0; j--){
+       for(int j = 0; j<nums[0].length; j++){
         int max = 0;
          for (int i =0; i<nums.length; i++){
             max = Math.max(max, nums[i][j]);
