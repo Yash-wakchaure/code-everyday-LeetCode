@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2679-sum-in-a-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2679-sum-in-a-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
+| [2679-sum-in-a-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -73,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2679-sum-in-a-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0867-transpose-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
