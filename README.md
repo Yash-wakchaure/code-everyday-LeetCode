@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
