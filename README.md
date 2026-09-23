@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0217-contains-duplicate) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
