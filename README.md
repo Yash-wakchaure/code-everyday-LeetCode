@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0443-string-compression) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
