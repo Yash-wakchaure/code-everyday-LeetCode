@@ -6,11 +6,8 @@ class Solution {
         for (int i = 0; i < parts.length; i++) {
             String part = parts[i];
 
-            if (part.equals("")) {
+            if (part.equals("") || part.equals(".")) {
                 // ignore
-                continue;
-            }
-            if (part.equals(".")) {
                 continue;
             }
             else if (part.equals("..")) {
