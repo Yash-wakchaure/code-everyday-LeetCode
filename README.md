@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0079-word-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0443-string-compression) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0394-decode-string) |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
