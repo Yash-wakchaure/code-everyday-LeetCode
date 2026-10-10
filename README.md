@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Yash-wakchaure/code-everyday-LeetCode/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
